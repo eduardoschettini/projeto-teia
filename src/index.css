@@ -1,0 +1,19 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    transition: 0.5s;
+}
+
+a:hover {
+    color: #000;
+    font-weight: bolder;
+}
+
+/* nav color = #005CA9 */

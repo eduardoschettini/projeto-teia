@@ -1,0 +1,27 @@
+#navbar {
+    background-color: #005CA9 !important;
+    height: 100px;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+
+#Pesquisa {
+    margin-left: -20%;
+}
+
+#btnPesquisa {
+    width: 2rem;
+    border: 2px solid #005CA9;
+    border-radius: 6px;
+}
+
+#btnPesquisa:hover {
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+}
